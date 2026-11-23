@@ -1,0 +1,32 @@
+{
+  "data_origin": "synthetic",
+  "seed": 42,
+  "split": "GroupShuffleSplit by need_id; no need appears in both train and test",
+  "train_needs": 240,
+  "test_needs": 80,
+  "train_candidates": 930,
+  "test_candidates": 315,
+  "feedback_counts": {
+    "accepted": 676,
+    "fulfilled": 341,
+    "rejected": 228
+  },
+  "metrics": {
+    "weighted_baseline": {
+      "rmse_vs_normalized_feedback": 0.3524938650723595,
+      "ndcg_at_5": 0.8595452685069984,
+      "precision_at_3": 0.8416666666666666
+    },
+    "lightgbm_regression": {
+      "rmse_vs_normalized_feedback": 0.33828007790001435,
+      "ndcg_at_5": 0.8562767455749963,
+      "precision_at_3": 0.8208333333333332
+    },
+    "lightgbm_lambdarank": {
+      "rmse_vs_normalized_feedback": 0.5622793124722246,
+      "ndcg_at_5": 0.8564749967798513,
+      "precision_at_3": 0.8166666666666667
+    }
+  },
+  "limitation": "Synthetic feedback is simulated from the baseline features; performance is pipeline validation only. Real evaluation requires coordinator feedback and repeated group-aware or temporal holdouts."
+}

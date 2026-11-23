@@ -1,0 +1,15 @@
+# Local and consented pilot data; never commit personal records.
+data/collected/
+data/exports/
+
+# Python and Jupyter artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local environments and editor state.
+.venv/
+venv/
+.env
+.vscode/settings.json

@@ -1,0 +1,20 @@
+{
+  "data_origin": "synthetic",
+  "seed": 42,
+  "as_of": "2026-10-31",
+  "months": 12,
+  "campus_coordinates_provided": false,
+  "row_counts": {
+    "users": 78,
+    "user_roles": 78,
+    "villages": 8,
+    "village_coordinators": 8,
+    "items": 1200,
+    "needs": 320,
+    "recommendation_runs": 1,
+    "matches": 1245,
+    "feedback": 1245,
+    "events": 6454
+  },
+  "warning": "All records are synthetic and must never be reported as real-world impact."
+}

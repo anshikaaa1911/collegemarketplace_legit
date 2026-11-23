@@ -1,0 +1,2 @@
+id,model_stage,model_name,model_version,data_origin,parameters,candidate_count,created_at
+b30ae65a-71ff-5fea-8aa0-08234da076de,baseline,synthetic-weighted-baseline,1.0.0,synthetic,"{""seed"": 42, ""synthetic_only"": true}",1245,2026-10-31T23:59:00Z
