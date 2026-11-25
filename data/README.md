@@ -1,6 +1,6 @@
 # Data Collection and CSV Contract
 
-Real pilot data will come from GiftBridge users and the college's coordinator survey/donation drive. Do not copy synthetic records into real pilot reporting. Generated files belong under `data/synthetic/`; collected or consented pilot exports belong in a separate access-controlled location and should be committed only after privacy review.
+Real pilot data will come from CMP users and the college's coordinator survey/donation drive. Do not copy synthetic records into real pilot reporting. Generated files belong under `data/synthetic/`; collected or consented pilot exports belong in a separate access-controlled location and should be committed only after privacy review.
 
 ## Current synthetic pipeline
 

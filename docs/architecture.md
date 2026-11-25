@@ -1,4 +1,4 @@
-# GiftBridge Architecture (Phase 1)
+# CMP Architecture (Phase 1)
 
 ## System architecture
 

@@ -1,6 +1,6 @@
-# GiftBridge
+# CMP
 
-GiftBridge is a college donation-matching platform for connecting donated goods with verified village, school, anganwadi, and NGO needs in Himachal Pradesh. The project is being built in phases so the data-science lifecycle remains reproducible and visible, not hidden behind the application.
+CMP is a college donation-matching platform for connecting donated goods with verified village, school, anganwadi, and NGO needs in Himachal Pradesh. The project is being built in phases so the data-science lifecycle remains reproducible and visible, not hidden behind the application.
 
 ## Phase status
 
